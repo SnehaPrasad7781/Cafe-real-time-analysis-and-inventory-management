@@ -1,0 +1,123 @@
+﻿S.No,Material_Id,Product_Name,Type,Category_1,Category_2,Category_3,Veg/Non-Veg,Payment_Type,Seller,Location,Company,Purchased_on,Freeze_after,Quantity,Grams/ML/Units,Unit,Per_Pack_Cost,Per_Unit_Cost,Total_Units,Units,Total
+1,1001,Vanilla Icecream,Beverages,Shakes,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,5,750,ml,180,0.24,3750,ml,900
+2,1002,Chocolate Syrup,Beverages,Shakes,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,5,750,ml,180,0.24,3750,ml,900
+3,1003,Banana Crush,Beverages,Shakes,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,5,750,ml,180,0.24,3750,ml,900
+4,1004,Strawberry Crush,Beverages,Shakes,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,5,750,ml,180,0.24,3750,ml,900
+5,1005,Orange Crush,Beverages,Shakes,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,5,750,ml,180,0.24,3750,ml,900
+6,1006,Pineapple Crush,Beverages,Shakes,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,5,750,ml,180,0.24,3750,ml,900
+7,1007,Mango Crush,Beverages,Shakes,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,5,750,ml,180,0.24,3750,ml,900
+8,1008,Litchi Crush,Beverages,Shakes,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,5,750,ml,180,0.24,3750,ml,900
+9,1009,MixBerry Crush,Beverages,Shakes,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,5,750,ml,180,0.24,3750,ml,900
+10,1010,Kiwi Crush,Beverages,Shakes,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,5,750,ml,200,0.266666667,3750,ml,1000
+11,1011,BlackCurrent Crush,Beverages,Shakes,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,5,750,ml,180,0.24,3750,ml,900
+12,1012,Badam Crush,Beverages,Shakes,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,5,750,ml,300,0.4,3750,ml,1500
+13,1013,Pista crush,Beverages,Shakes,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,5,750,ml,300,0.4,3750,ml,1500
+14,1014,ButterScotch Crush,Beverages,Shakes,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,5,750,ml,200,0.266666667,3750,ml,1000
+15,1015,Frozen Milk,Beverages,Shakes,,,Veg,Online,A 2 Z Store,Lawgate,Amul,27-10-2024,From Start,25,500,ml,18,0.036,12500,ml,450
+16,1016,Sugar,Beverages,Shakes,,,Veg,Online,Flipkart Mega Mart,Jalandhar,Local,26-10-2024,No Need ,5,5000,g,294,0.0588,25000,g,1470
+17,1017,Oreo Biscuits,Beverages,Shakes,,,Veg,Online,Flipkart Mega Mart,Jalandhar,Cadbaury,26-10-2024,No Need ,10,10,units,9.2,0.92,100,units,92
+18,1018,Kitkat,Beverages,Shakes,,,Veg,Online,Flipkart Mega Mart,Jalandhar,Nestle,26-10-2024,Optional,10,42,unit,378,9,420,units,3780
+19,1019,Classic Syrup,Beverages,Mojito,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,10,750,ml,299,0.398666667,7500,ml,2990
+20,1020,Green Mint Syrup,Beverages,Mojito,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,10,750,ml,299,0.398666667,7500,ml,2990
+21,1021,Watermelon Syrup,Beverages,Mojito,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,10,750,ml,299,0.398666667,7500,ml,2990
+22,1022,BlackCurrent Syrup,Beverages,Mojito,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,10,750,ml,299,0.398666667,7500,ml,2990
+23,1023,Green Apple Syrup,Beverages,Mojito,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,10,750,ml,299,0.398666667,7500,ml,2990
+24,1024,Blue Curcao Syrup,Beverages,Mojito,,,Veg,Online,Malas Wholesale Agent,E-Commerce,Malas,25-10-2024,No Need ,10,750,ml,299,0.398666667,7500,ml,2990
+25,1025,Sprite,Beverages,Mojito,,,Veg,Online,Flipkart Mega Mart,Jalandhar,Cococola,26-10-2024,From Start,10,2250,ml,88,0.039111111,22500,ml,880
+26,1026,Soda,Beverages,Mojito,,,Veg,Online,Flipkart Mega Mart,Jalandhar,Kinley,26-10-2024,From Start,24,750,ml,14,0.018666667,18000,ml,336
+27,1027,Mint Leaves,Beverages,Mojito,,,Veg,Online,Telugu Vantillu ,Lawgate,Local,27-10-2024,Optional,10,200,g,42,0.21,2000,g,420
+28,1028,Ice Blocks,Beverages,Mojito,,,Veg,Online,A 2 Z Store,Lawgate,Local,27-10-2024,From Start,10,50,units,20,0.4,500,units,200
+29,1029,Lemons,Beverages,Fresh Juice,,,Veg,Online,Local Vendor,Rama Mandi,Local,27-10-2024,After 3 Days,10,15,g,60,4,150,g,600
+30,1030,Ginger,Beverages,Fresh Juice,,,Veg,Online,Local Vendor,Rama Mandi,Local,27-10-2024,Optional,10,1000,g,23,0.023,10000,g,230
+31,1031,Watermelon,Beverages,Fresh Juice,,,Veg,Online,Local Vendor,Rama Mandi,Local,27-10-2024,From Start,10,3000,g,70,0.023333333,30000,g,700
+32,1032,Orange,Beverages,Fresh Juice,,,Veg,Online,Local Vendor,Rama Mandi,Local,27-10-2024,After 4 Days,10,1000,g,214,0.214,10000,g,2140
+33,1033,Pomagranate,Beverages,Fresh Juice,,,Veg,Online,Local Vendor,Rama Mandi,Local,27-10-2024,After 3 Days,10,1000,g,228,0.228,10000,g,2280
+34,1034,Apple,Beverages,Fresh Juice,,,Veg,Online,Local Vendor,Rama Mandi,Local,27-10-2024,After 5 Days,10,1000,g,300,0.3,10000,g,3000
+35,1035,Elaichi,Beverages,Chai,,,Veg,Online,Local Vendor,Rama Mandi,Local,27-10-2024,Optional,10,20,g,130,6.5,200,g,1300
+36,1036,Milk,Beverages,Chai,,,Veg,Online,A 2 Z Store,Lawgate,Amul,27-10-2024,From Start,10,500,ml,16,0.032,5000,ml,160
+37,1037,Tea Powder,Beverages,Chai,,,Veg,Online,Flipkart Mega Mart,Jalandhar,3 Roses,26-10-2024,No Need ,10,1000,g,520,0.52,10000,g,5200
+38,1038,Green Tea sachet,Beverages,Chai,,,Veg,Online,Flipkart Mega Mart,Jalandhar,Lipton,26-10-2024,No Need ,10,50,units,350,7,500,units,3500
+39,1039,Coffee Powder,Beverages,Coffee,,,Veg,Online,Flipkart Mega Mart,Jalandhar,Nestle,26-10-2024,No Need ,10,60,units,540,9,600,units,5400
+40,1040,Rose syrup,Beverages,Rose Milk,,,Veg,Cash,Rajhmundry Rose Milk,Rajmhundry,R Rose Milk,23-10-2024,No Need ,40,1000,ml,210,0.21,40000,ml,8400
+41,1041,Potato,Vegetables,Spiral Stick,,,Veg,Cash,Telugu Vantillu ,Lawgate,Local,27-10-2024,No Need ,10,1000,g,40,0.04,10000,g,400
+42,1042,Chicken Popcorn ,Frozen,Cracks,,,Non-Veg,Online,Flipkart Mega Mart,Jalandhar,ITC Master Chef,26-10-2024,From Start,20,55,units,297,5.4,1100,units,5940
+43,1043,Crispy Chicken,Frozen,Cracks,,,Non-Veg,Online,Local Vendor,Lawgate,ITC Master Chef,26-10-2024,From Start,20,50,units,275,5.5,1000,units,5500
+44,1044,Chicken Strips,Frozen,Cracks,,,Non-Veg,Online,Flipkart Mega Mart,Jalandhar,ITC Master Chef,26-10-2024,From Start,20,35,units,239,6.828571429,700,units,4780
+45,1045,Chicken Wings,Frozen,Cracks,,,Non-Veg,Online,Local Vendor,Lawgate,ITC Master Chef,26-10-2024,From Start,20,20,units,200,10,400,units,4000
+46,1046,Chicken Nuggets,Frozen,Cracks,Burger,,Non-Veg,Online,Flipkart Mega Mart,Jalandhar,ITC Master Chef,26-10-2024,From Start,20,55,units,562,10.21818182,1100,units,11240
+47,1047,Potato Nuggets,Frozen,Cracks,Burger,,Veg,Online,Flipkart Mega Mart,Jalandhar,McCain ,26-10-2024,From Start,40,45,units,140,3.111111111,1800,units,5600
+48,1048,Maggie,Maggie,Maggie,,,Veg,Online,A 2 Z Store,Lawgate,Nestle,27-10-2024,No Need ,40,1,unit,10,10,40,unit,400
+49,1049,Maggie Masala,Maggie,Maggie,,,Veg,Online,A 2 Z Store,Lawgate,Nestle,27-10-2024,No Need ,40,5,units,20,4,200,units,800
+50,1050,Cheese slice mini,Maggie,Maggie,,,Veg,Online,Guru-Nanak Store,Maingate,Amul,24-10-2024,From Start,20,51,units,350,6.862745098,1020,units,7000
+51,1051,Bread,Bakery,Bread Omlet,,,Veg,Online,A 2 Z Store,Lawgate,Local,27-10-2024,After 5 Days,30,10,units,25,2.5,300,units,750
+52,1052,Veg Momos,Frozen,Momos,,,Veg,Online,GoodWill Enterprises,Maingate,Local,24-10-2024,From Start,30,50,units,250,5,1500,units,7500
+53,1053,Chicken Momos,Frozen,Momos,,,Non-Veg,Online,GoodWill Enterprises,Maingate,Local,24-10-2024,From Start,30,50,units,400,8,1500,units,12000
+54,1054,Paneer Momos,Frozen,Momos,,,Veg,Online,GoodWill Enterprises,Maingate,Local,24-10-2024,From Start,30,40,units,350,8.75,1200,units,10500
+55,1055,Besan,Flour,Pakoda,Starters,,Veg,Online,Guru-Nanak Store,Lawgate,Vihan,24-10-2024,No Need ,30,1000,g,116,0.116,30000,g,3480
+56,1056,CornFlour,Flour,Pakoda,Starters,,Veg,Online,Guru-Nanak Store,Lawgate,WiekField,24-10-2024,No Need ,30,1000,g,75,0.075,30000,g,2250
+57,1057,Baking Soda,Flour,Pakoda,Starters,,Veg,Online,Guru-Nanak Store,Lawgate,Local,24-10-2024,No Need ,30,400,g,80,0.2,12000,g,2400
+58,1058,Tortilla Wrap,Bakery,Wraps,,,Veg,Online,Guru-Nanak Store,Lawgate,Local,24-10-2024,After 10 Days,30,12,units,100,8.333333333,360,units,3000
+59,1059,Pasta,Frozen,Pasta,,,Veg,Online,Guru-Nanak Store,Lawgate,Local,24-10-2024,Optional,30,2000,g,400,0.2,60000,g,12000
+60,1060,Red Pasta Sauce,Sauces,Pasta,,,Veg,Online,Guru-Nanak Store,Lawgate,Veeba,24-10-2024,No Need ,30,525,g,150,0.285714286,15750,g,4500
+61,1061,White Pasta Sauce,Sauces,Pasta,,,Veg,Online,Guru-Nanak Store,Lawgate,Veeba,24-10-2024,No Need ,30,1000,g,250,0.25,30000,g,7500
+62,1062,Fries,Frozen,Fries,,,Veg,Online,Flipkart Mega Mart,Jalandhar,McCain ,26-10-2024,From Start,30,2500,g,379,0.1516,75000,g,11370
+63,1063,Masala Fries,Frozen,Fries,,,Veg,Online,Flipkart Mega Mart,Jalandhar,McCain ,26-10-2024,From Start,30,1500,g,345,0.23,45000,g,10350
+64,1064,Smileys,Frozen,Fries,,,Veg,Online,Flipkart Mega Mart,Jalandhar,McCain ,26-10-2024,From Start,30,1500,g,355,0.236666667,45000,g,10650
+65,1065,Burger Buns,Bakery,Burgers,,,Veg,Online,Bread Basket,ModelTown,Local,26-10-2024,After 6 Days,30,4,units,25,6.25,120,units,750
+66,1066,Veg Patty,Frozen,Burgers,,,Veg,Online,Flipkart Mega Mart,Jalandhar,McCain ,26-10-2024,From Start,30,19,units,278,14.63157895,570,units,8340
+67,1067,Chicken Patty,Frozen,Burgers,,,Non-Veg,Online,Flipkart Mega Mart,Jalandhar,Keventer,26-10-2024,From Start,30,20,units,380,19,600,units,11400
+68,1068,Zinger Chicken,Frozen,Burgers,,,Non-Veg,Online,Local Vendor,Lawgate,Local,27-10-2024,From Start,30,1000,g,270,0.27,30000,g,8100
+69,1069,Cheese Slice,Frozen,Burgers,Pasta,Maggie,Veg,Online,Flipkart Mega Mart,Jalandhar,Amul,26-10-2024,From Start,30,50,units,440,8.8,1500,units,13200
+70,1070,Aloo Tikki,Frozen,Burgers,Wrap,,Veg,Online,Flipkart Mega Mart,Jalandhar,McCain ,26-10-2024,From Start,30,37,units,278,7.513513514,1110,units,8340
+71,1071,Sandwich Bread,Bakery,Sandwich,,,Veg,Online,Bread Basket,ModelTown,Local,26-10-2024,After 6 Days,30,22,units,140,6.363636364,660,units,4200
+72,1072,Pizza Base Small,Bakery,Pizza,,,Veg,Online,Bread Basket,ModelTown,Local,26-10-2024,After 3 Days,30,3,units,45,15,90,units,1350
+73,1073,Pizza Base Medium,Bakery,Pizza,,,Veg,Online,Bread Basket,ModelTown,Local,26-10-2024,After 3 Days,30,3,units,75,25,90,units,2250
+74,1074,Pizza Base Large,Bakery,Pizza,,,Veg,Online,Bread Basket,ModelTown,Local,26-10-2024,After 3 Days,30,3,units,100,33.33333333,90,units,3000
+75,1075,Mozzarella cheese,Frozen,Pizza,Sandwich,,Veg,Online,Guru-Nanak Store,Maingate,MilkyMIst,24-10-2024,From Start,30,3000,g,920,0.306666667,90000,g,27600
+76,1076,Jalapeno,Toppings,Pizza,,,Veg,Online,Guru-Nanak Store,Maingate,Neo,24-10-2024,After 20 Days,30,600,g,210,0.35,18000,g,6300
+77,1077,Red Paprika,Toppings,Pizza,,,Veg,Online,Guru-Nanak Store,Maingate,Neo,24-10-2024,After 20 Days,30,180,g,150,0.833333333,5400,g,4500
+78,1078,Black Olives,Toppings,Pizza,,,Veg,Online,Guru-Nanak Store,Maingate,Neo,24-10-2024,From Start,30,440,g,140,0.318181818,13200,g,4200
+79,1079,Tandoori Sauce,Sauces,Pizza,Sandwich,Burger,Veg,Online,Guru-Nanak Store,Maingate,Veeba,24-10-2024,No Need ,30,400,g,150,0.375,12000,g,4500
+80,1080,Pizza Sauce,Sauces,Pizza,Sandwich,Burger,Veg,Online,Guru-Nanak Store,Maingate,Veeba,24-10-2024,No Need ,30,525,g,150,0.285714286,15750,g,4500
+81,1081,Alfredo Sauce,Sauces,Pizza,Sandwich,,Veg,Online,Guru-Nanak Store,Maingate,Veeba,24-10-2024,No Need ,30,1000,g,250,0.25,30000,g,7500
+82,1082,Peri-Peri Sauce,Sauces,Pizza,Sandwich,Burger,Veg,Online,Guru-Nanak Store,Maingate,Veeba,24-10-2024,No Need ,30,300,g,170,0.566666667,9000,g,5100
+83,1083,Corn ,Frozen,Pizza,Sandwich,Pasta,Veg,Online,Flipkart Mega Mart,Jalandhar,Fresho,26-10-2024,From Start,30,1000,g,122,0.122,30000,g,3660
+84,1084,Paneer,Dairy,Pizza,Sandwich,Wrap,Veg,Online,A 2 Z Store,Lawgate,Local,27-10-2024,From Start,30,1000,g,413,0.413,30000,g,12390
+85,1085,Makhni,Sauces,Pizza,,,Veg,Online,Flipkart Mega Mart,Jalandhar,Local,26-10-2024,From Start,30,100,g,68,0.68,3000,g,2040
+86,1086,Tikka Coater,Sauces,Pizza,,,Veg,Online,Flipkart Mega Mart,Jalandhar,Local,26-10-2024,No Need ,30,150,g,50,0.333333333,4500,g,1500
+87,1087,Spinach ,Vegetables,Pizza,,,Veg,Cash,Telugu Vantillu ,Lawgate,Local,27-10-2024,From Start,30,250,g,21,0.084,7500,g,630
+88,1088,Mushroom,Vegetables,Pizza,Sandwich,Wrap,Veg,Cash,Telugu Vantillu ,Lawgate,Local,27-10-2024,From Start,30,200,g,50,0.25,6000,g,1500
+89,1089,Schezwan sauce,Sauces,Pizza,Sandwich,Pasta,Veg,Online,Flipkart Mega Mart,Jalandhar,Veeba,26-10-2024,No Need ,30,190,g,64,0.336842105,5700,g,1920
+90,1090,Mayonnaise,Sauces,Pizza,Sandwich,Burger,Veg,Online,Flipkart Mega Mart,Jalandhar,Veeba,26-10-2024,No Need ,30,875,g,193,0.220571429,26250,g,5790
+91,1091,Cheese,Sauces,Pizza,Sandwich,Burger,Veg,Online,Flipkart Mega Mart,Jalandhar,Veeba,26-10-2024,No Need ,30,1000,g,176,0.176,30000,g,5280
+92,1092,Tamato Sauce,Sauces,Pizza,Sandwich,Cracks,Veg,Online,Flipkart Mega Mart,Jalandhar,Tops,26-10-2024,No Need ,30,850,g,70,0.082352941,25500,g,2100
+93,1093,Soya Sauce,Sauces,Fried Rice,Starters,,Veg,Online,Flipkart Mega Mart,Jalandhar,Tops,26-10-2024,No Need ,30,1300,g,77,0.059230769,39000,g,2310
+94,1094,Chilli Sauce,Sauces,Fried Rice,Starters,,Veg,Online,Flipkart Mega Mart,Jalandhar,Tops,26-10-2024,No Need ,30,1150,g,77,0.066956522,34500,g,2310
+95,1095,Rice,Grocery,Fried Rice,,,Veg,Online,Flipkart Mega Mart,Jalandhar,Daawat,26-10-2024,No Need ,30,10000,g,476,0.0476,300000,g,14280
+96,1096,Eggs,Grocery,Fried Rice,Starters,,Non-Veg,Online,A 2 Z Store,Lawgate,Local,27-10-2024,After 2 Days,30,30,units,210,7,900,units,6300
+97,1097,Onions,Vegetables,Fried Rice,Starters,Burger,Veg,Cash,Telugu Vantillu ,Lawgate,Local,27-10-2024,No Need ,30,1000,g,49,0.049,30000,g,1470
+98,1098,Tamato,Vegetables,Pizza,Sandwich,Burger,Veg,Cash,Telugu Vantillu ,Lawgate,Local,27-10-2024,From Start,30,1000,g,35,0.035,30000,g,1050
+99,1099,Capsicum,Vegetables,Pizza,Sandwich,Burger,Veg,Cash,Telugu Vantillu ,Lawgate,Local,27-10-2024,From Start,30,1000,g,80,0.08,30000,g,2400
+100,1100,Coriander,Vegetables,Fried Rice,Starters,,Veg,Cash,Telugu Vantillu ,Lawgate,Local,27-10-2024,From Start,30,500,g,55,0.11,15000,g,1650
+101,1101,Beans,Vegetables,Fried Rice,,,Veg,Cash,Telugu Vantillu ,Lawgate,Local,27-10-2024,From Start,30,1000,g,72,0.072,30000,g,2160
+102,1102,Cabbage,Vegetables,Sandwich,,,Veg,Cash,Telugu Vantillu ,Lawgate,Local,27-10-2024,From Start,30,500,g,30,0.06,15000,g,900
+103,1103,Carrot,Vegetables,Fried Rice,,,Veg,Cash,Telugu Vantillu ,Lawgate,Local,27-10-2024,From Start,30,500,g,39,0.078,15000,g,1170
+104,1104,Green Chilli,Vegetables,Sandwich,,,Veg,Cash,Telugu Vantillu ,Lawgate,Local,27-10-2024,From Start,30,500,g,75,0.15,15000,g,2250
+105,1105,Food Colour,Spices,Starters,Pakoda,,Veg,Cash,A 2 Z Store,Lawgate,Local,27-10-2024,From Start,30,20,g,153,7.65,600,g,4590
+106,1106,Palm Oil,Oil,Fries,Burger,Cracks,Veg,Cash,Flipkart Mega Mart,Jalandhar,Priya ,26-10-2024,No Need ,30,1000,ml,125,0.125,30000,ml,3750
+107,1107,Chicken Boneless,Grocery,Fried Rice,Starters,Pizza,Non-Veg,Online,Local Vendor,Lawgate,Local,27-10-2024,From Start,30,1000,g,180,0.18,30000,g,5400
+108,1108,Chicken Bone,Grocery,Pakoda,,,Non-Veg,Online,Local Vendor,Lawgate,Local,27-10-2024,From Start,30,1000,g,220,0.22,30000,g,6600
+109,1109,Sunflower Oil,Oil,Fried Rice,Starters,,Veg,Online,Flipkart Mega Mart,Jalandhar,Freedom,26-10-2024,No Need ,30,1000,ml,160,0.16,30000,ml,4800
+110,1110,Chilli Powder,Spices,Fried Rice,Starters,,Veg,Online,Guru-Nanak Store,Maingate,Everest,24-10-2024,No Need ,30,500,g,246,0.492,15000,g,7380
+111,1111,Garam masala,Spices,Fried Rice,Starters,,Veg,Online,Flipkart Mega Mart,Jalandhar,Everest,26-10-2024,No Need ,30,200,g,110,0.55,6000,g,3300
+112,1112,Coriander Powder,Spices,Fried Rice,Starters,,Veg,Online,Flipkart Mega Mart,Jalandhar,Everest,26-10-2024,No Need ,30,500,g,161,0.322,15000,g,4830
+113,1113,Chicken Masala,Spices,Fried Rice,Starters,,Veg,Online,Flipkart Mega Mart,Jalandhar,Everest,26-10-2024,No Need ,30,50,g,48,0.96,1500,g,1440
+114,1114,Peri-Peri Powder,Spices,Pizza,Burger,,Veg,Online,Flipkart Mega Mart,Jalandhar,Farmalle,26-10-2024,No Need ,30,40,g,40,1,1200,g,1200
+115,1115,Tandoori Mayonnaise,Spices,Pizza,Burger,,Veg,Online,Flipkart Mega Mart,Jalandhar,Veeba,26-10-2024,No Need ,30,250,g,98,0.392,7500,g,2940
+116,1116,Mint Mayo Dressing,Spices,Pizza,Burger,,Veg,Online,Flipkart Mega Mart,Jalandhar,Veeba,26-10-2024,No Need ,30,300,g,156,0.52,9000,g,4680
+117,1117,Vinegar,Spices,Fried Rice,Starters,,Veg,Online,Flipkart Mega Mart,Jalandhar,Tops,26-10-2024,No Need ,30,1000,ml,66,0.066,30000,ml,1980
+118,1118,Chilli Flakes,Spices,Pizza,,,Veg,Online,Flipkart Mega Mart,Jalandhar,Keya,26-10-2024,No Need ,30,70,g,113,1.614285714,2100,g,3390
+119,1119,Oregano,Spices,Pizza,Pasta,,Veg,Online,Flipkart Mega Mart,Jalandhar,Keya,26-10-2024,No Need ,30,160,g,196,1.225,4800,g,5880
+120,1120,Salt,Spices,Fried Rice,Starters,,Veg,Online,Flipkart Mega Mart,Jalandhar,Local,26-10-2024,No Need ,30,1000,g,26,0.026,30000,g,780
+121,1121,Pepper,Spices,Starters,,,Veg,Online,Flipkart Mega Mart,Jalandhar,Local,26-10-2024,No Need ,30,100,g,121,1.21,3000,g,3630
+122,1122,Gas,Gas,Starters,,,Veg,Online,LPG,Maheru,LPG,26-10-2024,No Need ,20,21000,g,1810,0.086190476,420000,g,36200

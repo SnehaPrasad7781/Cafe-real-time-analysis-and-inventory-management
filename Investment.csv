@@ -1,0 +1,117 @@
+﻿Items,Product Type,Ownership,Payment Type,EMI,No.of Installements(Months),Seller,Location,Company,Condition,Quantity,Price,Total
+Pizza Oven,Kitchen Equipment,First Hand,Online,Availing,6,Kitchen Enterprises ,Jalandhar,Rishit Tools,Usable,1,"18,000",18000
+Sandwich Toaster,Kitchen Equipment,First Hand,Online,Availing,6,Kitchen Enterprises ,Jalandhar,Rishit Tools,Usable,1,"13,000",13000
+Oil Fryer,Kitchen Equipment,First Hand,Online,Availing,3,Kitchen Enterprises ,Jalandhar,Rishit Tools,Usable,1,"4,500",4500
+Micro Oven,Kitchen Equipment,First Hand,Online,Not Availing,NA,Kitchen Enterprises ,Jalandhar,Rishit Tools,Usable,1,"2,400",2400
+Electric Stove,Kitchen Equipment,Second Hand,Cash,Not Availing,NA,Friend,Lawgate,Priya,Usable,1,"1,000",1000
+Potato Twister,Kitchen Equipment,First Hand,Cash,Not Availing,NA,Amazon,Ecommerce,WishBone,Usable,1,800,800
+Gas Stove 3 burner,Kitchen Equipment,Second Hand,Cash,Availing,5,KCPD FastFoods,Lawgate,Hadala,Usable,1,"13,000",13000
+Starter vessel ,Kitchen Equipment,First Hand,Online,Not Availing,NA,Flipkart,Ecommerce,Priya,Usable,2,"2,000",4000
+FriedRice Vessel,Kitchen Equipment,Second Hand,Cash,Not Availing,NA,KCPD FastFoods,Lawgate,Priya,Usable,2,"2,300",4600
+Oil Kadhai,Kitchen Equipment,First Hand,Cash,Not Availing,NA,Hardware Wholesale Store ,Jalandhar,Local,Usable,1,"1,500",1500
+Slicer,Kitchen Equipment,First Hand,Online,Not Availing,NA,Hardware Wholesale Store  ,Jalandhar,Local,Usable,4,350,1400
+Bowl Slicer,Kitchen Equipment,First Hand,Online,Not Availing,NA,Hardware Wholesale Store  ,Jalandhar,Local,Usable,2,320,640
+Mixer,Kitchen Equipment,Second Hand,Online,Not Availing,NA,DatePoint,Lawgate,Sujatha,Usable,1,"1,200",1200
+Mixer Jar,Kitchen Equipment,Second Hand,Cash,Not Availing,NA,DatePoint,Lawgate,Sujatha,Usable,2,750,1500
+Bowls,Kitchen Equipment,First Hand,Online,Not Availing,NA,Amazon,Ecommerce,Local,Usable,5,70,350
+Spoons,Kitchen Equipment,First Hand,Cash,Not Availing,NA,VishalMart,Phagwara,Local,Usable,3,18,54
+Freezer,Kitchen Equipment,Second Hand,Cash,Availing,12, Jalandhar Breeze,Lawgate,Voltas,Usable,1,"30,000",30000
+Fridge,Kitchen Equipment,Second Hand,Online,Availing,12, Jalandhar Breeze,Lawgate,Cococola,Usable,1,"25,000",25000
+Knife,Kitchen Equipment,First Hand,Cash,Not Availing,NA,Cococola Retailers   ,Green Valley,Local,Usable,3,230,690
+Lighter,Kitchen Equipment,First Hand,Online,Not Availing,NA,VishalMart,Phagwara,Local,Usable,2,110,220
+Spice Holder,Kitchen Equipment,First Hand,Online,Not Availing,NA,Flipkart,Ecommerce,Local,Usable,2,75,150
+Sealing Machine,Kitchen Equipment,First Hand,Cash,Not Availing,NA,Flipkart,Ecommerce,Local,Usable,1,"3,500",3500
+Scooper,Kitchen Equipment,First Hand,Online,Not Availing,NA,Flipkart,Ecommerce,Local,Usable,2,250,500
+Pizza Cutter,Kitchen Equipment,First Hand,Cash,Not Availing,NA,Amazon,Ecommerce,Local,Usable,3,120,360
+Containers,Kitchen Equipment,First Hand,Cash,Not Availing,NA,Amazon,Ecommerce,Local,Usable,15,110,1650
+Squueze Bottles,Kitchen Equipment,First Hand,Cash,Not Availing,NA,VishalMart,Phagwara,Local,Usable,4,70,280
+Sause Holder,Kitchen Equipment,First Hand,Online,Not Availing,NA,Jalandhar  Breeze,Lawgate,Local,Usable,9,50,450
+Oil Container,Kitchen Equipment,First Hand,Online,Not Availing,NA,Amazon,Ecommerce,Local,Usable,2,80,160
+Pizza Guage Small,Kitchen Equipment,First Hand,Online,Not Availing,NA,Amazon,Ecommerce,Local,Usable,5,110,550
+Pizza Holder,Kitchen Equipment,Second Hand,Online,Not Availing,NA,DatePoint,Lawgate,Local,Usable,2,130,260
+Wash Basin,Kitchen Equipment,Second Hand,Cash,Not Availing,NA,Jalandhar Breeze,Lawgate,Cera,Usable,1,"1,000",1000
+Wash Basin,Furniture,First Hand,Online,Not Availing,NA,Tile Traders   ,Phagwara,Cera,Usable,1,"1,500",1500
+Tables,Furniture,First Hand,Online,Availing,6,Deep Furnitures,DeepNagar,Caradal,Usable,4,"1,100",4400
+Chairs Cushion,Furniture,First Hand,Online,Availing,6,Deep Furnitures,DeepNagar,Caradal,Usable,16,"1,300",20800
+Chairs Wooden,Furniture,First Hand,Online,Not Availing,NA,Deep Furnitures,DeepNagar,Caradal,Usable,2,850,1700
+Sofa Cushion,Furniture,First Hand,Online,Not Availing,NA,Deep Furnitures,DeepNagar,Caradal,Usable,2,700,1400
+Sofa Partitions,Furniture,First Hand,Cash,Not Availing,NA,Deep Furnitures,DeepNagar,Caradal,Usable,2,890,1780
+Exhaust Fan,Furniture,Second Hand,Cash,Not Availing,NA,Deep Furnitures,DeepNagar,Caradal,Usable,1,"1,000",1000
+Kitchen Chimney,Kitchen Equipment,Second Hand,Cash,Availing,3,Deep Furnitures,DeepNagar,Glen,Usable,1,"12,000",12000
+Tissue Holder,Furniture,First Hand,Cash,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,6,45,270
+Sprinklers,Furniture,First Hand,Cash,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,12,60,720
+Stools,Furniture,First Hand,Cash,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,5,250,1250
+Pizza Guage Medium,Kitchen Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,4,120,480
+Pizza Guage Large,Kitchen Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,3,130,390
+Mojito Glass,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,11,150,1650
+Shakes Glass,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,11,170,1870
+Starter Plate,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,9,120,1080
+Pizza Server Small,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,9,200,1800
+Pizza Server Medium,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,8,220,1760
+Pizza Server Larger,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,7,240,1680
+Burger Plates,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,11,120,1320
+Soup Bowls,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,11,200,2200
+Soup Spoons,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,7,50,350
+Ice Cream Bowls,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,5,260,1300
+Pasta Bowls,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,10,270,2700
+Expresso Machine,Kitchen Equipment,Second Hand,Cash,Availing,3,Kitchen Enterprises  ,Phagwara,Philips,Usable,1,"2,100",2100
+Coffee Cups,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,10,190,1900
+Saucers,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,20,140,2800
+Coffee Spoons,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,10,10,100
+Maggie Bowls,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,5,125,625
+Twister Sticks,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,100,2,200
+Rice Plates,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,11,35,385
+Rice Boiler,Kitchen Equipment,Second Hand,Cash,Not Availing,NA,Chalo Kcpd,Main Gate,Local,Usable,1,"1,400",1400
+Rice Filter,Kitchen Equipment,Second Hand,Online,Not Availing,NA,Chalo Kcpd,Main Gate,Local,Usable,1,750,750
+Rice Dryer,Kitchen Equipment,Second Hand,Online,Not Availing,NA,Chalo Kcpd,Main Gate,Local,Usable,1,750,750
+Rice Slicer,Kitchen Equipment,Second Hand,Cash,Not Availing,NA,Chalo Kcpd,Main Gate,Local,Usable,2,300,600
+Chai Glasses,Serving Equipment,First Hand,Online,Not Availing,NA,Jyothi Chowk  ,Jalandhar,Local,Usable,10,18,180
+Smart TV, Ambiance,First Hand,Online,Availing,6,Amazon,Ecommerce,LG ,Usable,1,"16,000",16000
+Home Theatre,Ambiance,First Hand,Online,Availing,6,Flipkart,Ecommerce,Protonics,Usable,1,"7,500",7500
+Air Conditioner,Ambiance,Second Hand,Cash,Not Availing,NA,Jalandhar Breeze,Lawgate,Mitsbushi,Usable,1,"5,000",5000
+RO Purifier,Kitchen Equipment,First Hand,Online,Availing,3,Amazon,Ecommerce,Croma,Usable,1,"3,000",3000
+Grass Pads,Ambiance,First Hand,Online,Not Availing,NA,Interior Designs,Rama Mandi,Local,Usable,10,350,3500
+Light Strip 1m,Ambiance,First Hand,Online,Not Availing,NA,Interior Designs,Rama Mandi,Local,Usable,2,20,40
+Light Strip 5m,Ambiance,First Hand,Online,Not Availing,NA,Interior Designs,Rama Mandi,Local,Usable,3,120,360
+Light Strip 10m,Ambiance,First Hand,Online,Not Availing,NA,Interior Designs,Rama Mandi,Local,Usable,7,240,1680
+Picture Frames,Ambiance,First Hand,Online,Not Availing,NA,Interior Designs,Rama Mandi,Local,Usable,30,100,3000
+Hanging Lights,Ambiance,First Hand,Online,Not Availing,NA,Interior Designs,Rama Mandi,Local,Usable,8,180,1440
+Cushion Pillows,Ambiance,First Hand,Online,Not Availing,NA,Interior Designs,Rama Mandi,Local,Usable,10,50,500
+Hanging Baskets,Ambiance,First Hand,Online,Not Availing,NA,Interior Designs,Rama Mandi,Local,Usable,18,60,1080
+Basket Lights,Ambiance,First Hand,Online,Not Availing,NA,Interior Designs,Rama Mandi,Local,Usable,18,20,360
+CFL Bulb,Ambiance,First Hand,Online,Not Availing,NA,Interior Designs,Rama Mandi,Local,Usable,3,35,105
+Tube Light,Ambiance,First Hand,Online,Not Availing,NA,Interior Designs,Rama Mandi,Local,Usable,3,80,240
+Dream Catchers,Ambiance,First Hand,Online,Not Availing,NA,Interior Designs,Rama Mandi,Local,Usable,5,50,250
+Hanging flower Baskets,Ambiance,First Hand,Cash,Not Availing,NA,Interior Designs,Rama Mandi,Local,Usable,12,100,1200
+Flower Pots ,Ambiance,First Hand,Cash,Not Availing,NA,Interior Designs,Rama Mandi,Local,Usable,6,200,1200
+Silver Foil 50m,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,1,100,100
+Shake Packaging Glass,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,100,0.75,75
+Shake Cap,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,100,0.5,50
+Straws,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,200,1,200
+Silver Container 750ml,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,60,2,120
+Silver Container 500ml,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,60,1.5,90
+Mojito Packaging Glass,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,100,0.75,75
+Mojito Packaging Lid,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,100,0.5,50
+Packing Cover 6x8,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,100,2,200
+Packing Cover 8x10,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,100,2,200
+Burger wrap,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,100,0.5,50
+Roll Wrap,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,100,0.5,50
+Burger Box,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,100,4,400
+Toothpicks,Serving Equipment,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,100,0.1,10
+Pizza Box Small,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,100,6,600
+Pizza Box Medium,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,50,8,400
+Pizza Box Large,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,50,10,500
+Disposable Spoons,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,200,0.2,40
+Disposable Forks,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,100,0.2,20
+Fabric Covers,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,100,0.1,10
+Container Lids,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,100,0.3,30
+Butter Paper,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,5,150,750
+Disposable Plates,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,150,0.5,75
+Cling Roll,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,2,120,240
+Pressing Covers,Packaging Material,First Hand,Cash,Not Availing,NA,Rahul General Store,Lawgate,Local,Usable,50,0.1,5
+MCB,Kitchen Equipment,First Hand,Cash,Not Availing,NA,Kiran Electricals,Backgate,Local,Usable,1,150,150
+Regulator,Kitchen Equipment,First Hand,Cash,Not Availing,NA,Kiran Electricals,Backgate,Local,Usable,1,100,100
+Gas Connector,Kitchen Equipment,First Hand,Cash,Not Availing,NA,Balaji Store,Lawgate,LPG,Usable,2,350,700
+Gas Cylinder,Kitchen Equipment,First Hand,Cash,Not Availing,NA,Balaji Store,Lawgate,LPG,Usable,1,"3,500",3500
+Cutter,Kitchen Equipment,First Hand,Cash,Not Availing,NA,Balaji Store,Lawgate,Local,Usable,2,50,100
+,,,,,,,,,,,,0

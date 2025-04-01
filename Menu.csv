@@ -1,0 +1,192 @@
+﻿S.No,Product_ID,Product_Name,Size,Category,Price,Column1,Margin
+1,101,Margarita,Small,Pizza,69,54,15
+2,102,Onion,Small,Pizza,79,59,20
+3,103,Capsicum,Small,Pizza,79,60,19
+4,104,Tamato,Small,Pizza,79,59,20
+5,105,Corn,Small,Pizza,89,62,27
+6,106,Onion Capsicum,Small,Pizza,99,62,37
+7,107,Corn Jalapeno,Small,Pizza,99,72,27
+8,108,Spicy Spark,Small,Pizza,109,94,15
+9,109,Spinach-Mushroom,Small,Pizza,109,74,35
+10,110,Paneer Onion,Small,Pizza,119,90,29
+11,111,Cheese and Corn,Small,Pizza,129,66,63
+12,112,Farmhouse,Small,Pizza,139,63,76
+13,113,Paneer Makhni,Small,Pizza,139,95,44
+14,114,Paneer Tikka,Small,Pizza,149,90,59
+15,115,Veg Deluxe,Small,Pizza,159,108,51
+16,116,Veg Forest,Small,Pizza,169,102,67
+17,117,Classic Chicken,Small,Pizza,119,86,33
+18,118,Peri-Peri Chicken,Small,Pizza,129,113,16
+19,119,Masala Chicken,Small,Pizza,139,101,38
+20,120,Creamy Chicken,Small,Pizza,139,100,39
+21,121,Chicken Alfredo,Small,Pizza,159,100,59
+22,122,Spicy N Schezwan Chicken ,Small,Pizza,159,123,36
+23,123,Chicken Tikka,Small,Pizza,169,110,59
+24,124,Chicken Sausage N Pepeproni,Small,Pizza,179,137,42
+25,125,Supreme Chicken,Small,Pizza,189,146,43
+26,126,Margarita,Medium,Pizza,109,96,13
+27,127,Onion,Medium,Pizza,119,108,11
+28,128,Capsicum,Medium,Pizza,119,109,10
+29,129,Tamato,Medium,Pizza,119,107,12
+30,130,Corn,Medium,Pizza,129,113,16
+31,131,Onion Capsicum,Medium,Pizza,129,111,18
+32,132,Corn Jalapeno,Medium,Pizza,129,124,5
+33,133,Spicy Spark,Medium,Pizza,149,144,5
+34,134,Spinach-Mushroom,Medium,Pizza,159,131,28
+35,135,Paneer Onion,Medium,Pizza,159,151,8
+36,136,Cheese and Corn,Medium,Pizza,169,116,53
+37,137,Farmhouse,Medium,Pizza,179,116,63
+38,138,Paneer Makhni,Medium,Pizza,189,158,31
+39,139,Paneer Tikka,Medium,Pizza,199,142,57
+40,140,Veg Deluxe,Medium,Pizza,219,159,60
+41,141,Veg Forest,Medium,Pizza,229,205,24
+42,142,Classic Chicken,Medium,Pizza,189,137,52
+43,143,Peri-Peri Chicken,Medium,Pizza,199,177,22
+44,144,Masala Chicken,Medium,Pizza,209,158,51
+45,145,Creamy Chicken,Medium,Pizza,209,157,52
+46,146,Chicken Alfredo,Medium,Pizza,249,165,84
+47,147,Spicy N Schezwan Chicken ,Medium,Pizza,249,212,37
+48,148,Chicken Tikka,Medium,Pizza,259,189,70
+49,149,Chicken Sausage N Pepeproni,Medium,Pizza,269,205,64
+50,150,Supreme Chicken,Medium,Pizza,279,215,64
+51,151,Margarita,Large,Pizza,179,149,30
+52,152,Onion,Large,Pizza,189,152,37
+53,153,Capsicum,Large,Pizza,189,154,35
+54,154,Tamato,Large,Pizza,189,152,37
+55,155,Corn,Large,Pizza,199,157,42
+56,156,Onion Capsicum,Large,Pizza,199,153,46
+57,157,Corn Jalapeno,Large,Pizza,199,171,28
+58,158,Spicy Spark,Large,Pizza,219,202,17
+59,159,Spinach-Mushroom,Large,Pizza,229,184,45
+60,160,Paneer Onion,Large,Pizza,229,212,17
+61,161,Cheese and Corn,Large,Pizza,239,163,76
+62,162,Farmhouse,Large,Pizza,249,162,87
+63,163,Paneer Makhni,Large,Pizza,259,223,36
+64,164,Paneer Tikka,Large,Pizza,269,203,66
+65,165,Veg Deluxe,Large,Pizza,289,235,54
+66,166,Veg Forest,Large,Pizza,299,290,9
+67,167,Classic Chicken,Large,Pizza,249,190,59
+68,168,Peri-Peri Chicken,Large,Pizza,259,247,12
+69,169,Masala Chicken,Large,Pizza,269,234,35
+70,170,Creamy Chicken,Large,Pizza,269,219,50
+71,171,Chicken Alfredo,Large,Pizza,299,224,75
+72,172,Spicy N Schezwan Chicken ,Large,Pizza,299,290,9
+73,173,Chicken Tikka,Large,Pizza,329,253,76
+74,174,Chicken Sausage N Pepeproni,Large,Pizza,339,272,67
+75,175,Supreme Chicken,Large,Pizza,349,299,50
+76,176,Classic Veg,,Sandwich,49,41,8
+77,177,Veg Mayo,,Sandwich,49,31,18
+78,178,Choco-Lava,,Sandwich,49,46,3
+79,179,Grilled Paneer,,Sandwich,59,49,10
+80,180,Chilli Cheese Toast,,Sandwich,59,52,7
+81,181,Cheese Corn Burst,,Sandwich,59,53,6
+82,182,Chicken,,Sandwich,79,45,34
+83,183,Chicken Nugget,,Sandwich,89,62,27
+84,184,Chicken Peri-Peri,,Sandwich,89,59,30
+85,185,Cheesy Chicken,,Sandwich,89,54,35
+86,186,Veg ,,Burger,49,34,15
+87,187,Cheese Veg,,Burger,59,44,15
+88,188,Veg Nugget,,Burger,69,39,30
+89,189,Aloo Patty,,Burger,69,37,32
+90,190,Chicken Patty,,Burger,79,49,30
+91,191,Chicken Nugget,,Burger,89,60,29
+92,192,Double Patty Chicken,,Burger,99,68,31
+93,193,Zinger Chicken,,Burger,109,36,73
+94,194,Classic,,Fries,49,27,22
+95,195,Masala,,Fries,59,43,16
+96,196,Peri-Peri,,Fries,59,44,15
+97,197,Smileys,,Fries,59,6,53
+98,198,Plain,,Bread-Omlet,49,17,32
+99,199,Cheesey,,Bread-Omlet,59,19,40
+100,200,Double Egg,,Bread-Omlet,59,24,35
+101,201,Chicken ,,Bread-Omlet,69,19,50
+102,202,Veg ,,Momos,69,37,32
+103,203,Paneer,,Momos,89,60,29
+104,204,Chicken,,Momos,99,55,44
+105,205,Onion,,Pakoda,49,23,26
+106,206,Paneer,,Pakoda,79,60,19
+107,207,Chicken,,Pakoda,89,41,48
+108,208,Veg,,Wrap,69,19,50
+109,209,Aloo Tikki,,Wrap,89,26,63
+110,210,Mushroom,,Wrap,119,26,93
+111,211,Paneer,,Wrap,129,47,82
+112,212,Chicken,,Wrap,129,32,97
+113,213,Plain Red Sauce,,Pasta,79,43,36
+114,214,Baked Red Sauce,,Pasta,99,49,50
+115,215,Plain White Sauce,,Pasta,79,42,37
+116,216,Baked White Sauce,,Pasta,99,48,51
+117,217,Plain Mixed Sauce,,Pasta,99,49,50
+118,218,Baked Mixed Sauce,,Pasta,119,56,63
+119,219,Plain Red Sauce Chicken,,Pasta,119,48,71
+120,220,Baked Red Sauce Chicken,,Pasta,139,54,85
+121,221,Plain White Sauce Chicken,,Pasta,119,47,72
+122,222,Baked White Sauce Chicken,,Pasta,139,52,87
+123,223,Plain Mixed Sauce Chicken,,Pasta,119,52,67
+124,224,Baked Mixed Sauce Chicken,,Pasta,139,59,80
+125,225,Chicken 65,,Starters,139,68,71
+126,226,Chicken Majestic,,Starters,149,69,80
+127,227,Chilli Chicken,,Starters,139,69,70
+128,228,Chicken Lollipop,,Starters,139,75,64
+129,229,Chicken Manchurian,,Starters,149,69,80
+130,230,Paneer Manchurian,,Starters,139,104,35
+131,231,Veg,,Friedrice,69,33,36
+132,232,Paneer,,Friedrice,99,41,58
+133,233,Egg,,Friedrice,79,40,39
+134,234,Double-Egg,,Friedrice,89,47,42
+135,235,Chicken,,Friedrice,99,44,55
+136,236,BB's Special,,Friedrice,119,51,68
+137,237,Plain,,Maggie,39,24,15
+138,238,Vegetable,,Maggie,49,28,21
+139,239,Cheese,,Maggie,49,30,19
+140,240,Double-Masala,,Maggie,49,32,17
+141,241,Peri-Peri,,Maggie,49,42,7
+142,242,Classic,,Spiral Potato Stick,49,9,40
+143,243,Peri-Peri,,Spiral Potato Stick,59,24,35
+144,244,Tandoori,,Spiral Potato Stick,69,17,52
+145,245,Chicken Popcorn,,Cracks,79,72,7
+146,246,Crispy Chicken,,Cracks,99,40,59
+147,247,Chicken Strips,,Cracks,99,48,51
+148,248,Chicken Wings,,Cracks,99,67,32
+149,249,Chicken Nuggets,,Cracks,79,68,11
+150,250,Potato Nuggets,,Cracks,59,25,34
+151,251,Plain,,Chai,19,16,3
+152,252,Ginger,,Chai,25,16,9
+153,253,Elaichi,,Chai,25,22,3
+154,254,Irani,,Chai,29,16,13
+155,255,Green,,Chai,29,10,19
+156,256,Plain,,Coffee,49,17,32
+157,257,Chocolate,,Coffee,59,16,43
+158,258,Black,,Coffee,69,20,49
+159,259,Cold,,Coffee,69,18,51
+160,260,Rose Milk,,Rose Milk,59,16,43
+161,261,Classic,,Mojito,49,20,29
+162,262,Virgin,,Mojito,49,23,26
+163,263,Green-Mint,,Mojito,49,15,34
+164,264,Green-Apple,,Mojito,49,15,34
+165,265,Watermelon,,Mojito,59,15,44
+166,266,Black Current,,Mojito,59,15,44
+167,267,Blue Curacao,,Mojito,59,15,44
+168,268,Fresh Lime,,Fresh Juice,25,16,9
+169,269,Mint Lime,,Fresh Juice,25,20,5
+170,270,Ginger Lime,,Fresh Juice,29,16,13
+171,271,Watermelon,,Fresh Juice,49,8,41
+172,272,Orange,,Fresh Juice,59,28,31
+173,273,Pomogranate,,Fresh Juice,59,27,32
+174,274,Apple,,Fresh Juice,89,33,56
+175,275,Vanilla,,Shakes,49,22,27
+176,276,Sharjah,,Shakes,59,27,32
+177,277,Chocolate,,Shakes,59,22,37
+178,278,Banana,,Shakes,59,22,37
+179,279,Strawberry,,Shakes,59,22,37
+180,280,Orange,,Shakes,59,22,37
+181,281,Pineapple,,Shakes,59,22,37
+182,282,Mango,,Shakes,59,22,37
+183,283,Litchi,,Shakes,59,22,37
+184,284,Mixberry,,Shakes,79,22,57
+185,285,Kiwi,,Shakes,59,23,36
+186,286,Blackcurrent,,Shakes,59,22,37
+187,287,Badham,,Shakes,79,30,49
+188,288,Pista,,Shakes,79,30,49
+189,289,Butterscotch,,Shakes,79,23,56
+190,290,Oreo,,Shakes,99,14,85
+191,291,KitKat,,Shakes,99,46,53
